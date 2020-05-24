@@ -1,0 +1,9 @@
+<resources>
+    <string name="scan_barcode">Scan QR Code</string>
+    <string name="open_camera">OPEN CAMERA</string>
+    <string name="send_email">SEND EMAIL</string>
+    <string name="product_initiative">A sam_mit product</string>
+    <string name="main_page_title">Tiger_Is_Back</string>
+    <string name="take_barcode_picture">Detect QR Code</string>
+    <string name="app_name">QRDetector</string>
+</resources>
